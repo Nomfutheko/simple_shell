@@ -1,9 +1,3 @@
-/*
- * File: helpers_2.c
- * Auth: Noluyolo Ndungane
- *       Danisile Johannah
- */
-
 #include "shell.h"
 
 void handle_line(char **line, ssize_t read);
